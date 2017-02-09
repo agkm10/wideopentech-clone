@@ -230,9 +230,16 @@ margin: 0 auto 27px auto;
 /*-------------Fifth Section----------------*/
 .fifth {
 margin-top: -7px;
+background-color:black;
 }
 .fifth img{
 width: 100%;
+}
+
+.fifth-overlay {
+  display: none;
+  position: relative;
+  border: 1px solid blue;
 }
 .fifth8 {
   background-color: #40666d;
